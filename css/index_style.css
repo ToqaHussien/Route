@@ -1,0 +1,37 @@
+
+/* NavBar Style */
+
+
+
+.navStyle a{
+    color:rgba(0,0,0,.7);
+}
+
+.buton-navBar ul{
+
+list-style-type: none;
+
+}
+
+.buton-navBar a{
+    border: 1px solid rgba(0,0,0,.2);
+    padding: 1rem 2rem;
+
+}
+
+.carousel-inner .carousel-item img{
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-item .carousel-caption{
+    top : 45%
+}
+.carousel-item .carousel-caption a{
+   
+ 
+ padding: 0.5rem;
+ border-radius: 5px;
+ margin-top: 1rem ;
+ display: inline-block;
+}
